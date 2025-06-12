@@ -717,8 +717,6 @@ MIT License - see LICENSE file for details.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/duttnikhil/DynamicGrowthTree.git/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/duttnikhil/DynamicGrowthTree.git/discussions)
 - **Email**: thisisnikhildutt@gmail.com
 
 ---
